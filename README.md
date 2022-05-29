@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leonardo 
 - 👀 I’m always interested in improving myself
 - 🌱 I’m currently learning Python and Typescript
-- 💞️ I’m looking to collaborate on whatever can improve my skills (probably everything 😯)
+- 💞️ I would love to collaborate on an open source project!
 - 📫 How to reach me [ leonardotocchet@gmail.com ]
 - Nerd
 
