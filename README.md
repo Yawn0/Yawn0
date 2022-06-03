@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonardo 
 - 👀 I’m always interested in improving myself
-- 🌱 I’m currently learning C#, SQL and javascript
+- 🌱 I’m currently learning and working with C#, SQL and javascript
 - 💞️ I would love to collaborate on an open source project!
 - 📫 How to reach me [ leonardotocchet@gmail.com ]
 - Nerd
